@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Введите чило: ");
+﻿Console.WriteLine("Введите номер дня: ");
 int numberA = Convert.ToInt32(Console.ReadLine());
 
 if (numberA > 7)
